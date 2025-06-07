@@ -9,8 +9,8 @@
 
 
 ## 💻 What’s in the Project?
-- 🌟 *7*Main Component (App.js)**: The main entry point that renders the PaymentForm component centered on the screen.  
-- 📝 ** Payment Form (PaymentForm.js)**: Allows users to select a payment method (Card or IBAN) and displays the corresponding form.  
+- 🌟 **Main Component (App.js)**: The main entry point that renders the PaymentForm component centered on the screen.  
+- 📝 **Payment Form (PaymentForm.js)**: Allows users to select a payment method (Card or IBAN) and displays the corresponding form.  
 - 🔗 **Card Form (CardForm.js)**:  Contains the form fields for credit card payment and handles real API submission via POST.  
 - 💻 **IBAN Form (IBANForm.js)**: Contains the form fields for IBAN payment  and handles form submission using Formik.  
 
